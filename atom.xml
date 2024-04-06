@@ -3,11 +3,11 @@
   <title>T-2杂货铺</title>
   
   <subtitle>落叶聚还散，寒鸦栖复惊。</subtitle>
-  <link href="http://trackers2.github.io/project/atom.xml" rel="self"/>
+  <link href="https://username.github.io/atom.xml" rel="self"/>
   
-  <link href="http://trackers2.github.io/project/"/>
+  <link href="https://username.github.io/"/>
   <updated>2024-03-31T03:09:20.708Z</updated>
-  <id>http://trackers2.github.io/project/</id>
+  <id>https://username.github.io/</id>
   
   <author>
     <name>ALan Xavier</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://trackers2.github.io/project/2024/03/31/hello-world/"/>
-    <id>http://trackers2.github.io/project/2024/03/31/hello-world/</id>
+    <link href="https://username.github.io/2024/03/31/hello-world/"/>
+    <id>https://username.github.io/2024/03/31/hello-world/</id>
     <published>2024-03-31T03:11:44.495Z</published>
     <updated>2024-03-31T03:09:20.708Z</updated>
     
