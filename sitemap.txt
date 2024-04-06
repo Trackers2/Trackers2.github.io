@@ -1,2 +1,4 @@
+https://trackers2.github.io/tags/index.html
+https://trackers2.github.io/categories/index.html
 https://trackers2.github.io/2024/03/31/hello-world/
 https://trackers2.github.io/
